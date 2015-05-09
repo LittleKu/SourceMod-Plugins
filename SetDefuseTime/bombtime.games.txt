@@ -1,0 +1,57 @@
+"Games"
+{
+	"csgo"
+	{
+		"Offsets"
+		{
+			"m_bBombTicking"
+			{
+				"windows"	"1188"
+				"linux"		"1212"
+				"mac"		"1208"
+			}
+
+			"m_flC4Blow"
+			{
+				"windows"	"1192"
+				"linux"		"1216"
+				"mac"		"1212"
+			}
+
+			"m_bStartDefuse"
+			{
+				"windows"	"1276"
+				"linux"		"1300"
+				"mac"		"1296"
+			}
+
+			"m_bInNoDefuseArea"
+			{
+				"windows"	"6442"
+				"linux"		"6466"
+				"mac"		"6462"
+			}
+
+			"m_flDefuseLength"
+			{
+				"windows"	"1292"
+				"linux"		"1316"
+				"mac"		"1312"
+			}
+
+			"m_flDefuseCountDown"
+			{
+				"windows"	"1296"
+				"linux"		"1320"
+				"mac"		"1316"
+			}
+
+			"m_bHasDefuser"
+			{
+				"windows"	"5384"
+				"linux"		"5408"
+				"mac"		"5404"
+			}
+		}
+	}
+}
