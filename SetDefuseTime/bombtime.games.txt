@@ -48,9 +48,9 @@
 
 			"m_bHasDefuser"
 			{
-				"windows"	"5384"
-				"linux"		"5408"
-				"mac"		"5404"
+				"windows"	"5404"
+				"linux"		"5428"
+				"mac"		"5424"
 			}
 		}
 	}
