@@ -27,9 +27,9 @@
 
 			"m_bInNoDefuseArea"
 			{
-				"windows"	"6442"
-				"linux"		"6466"
-				"mac"		"6462"
+				"windows"	"6462"
+				"linux"		"6486"
+				"mac"		"6482"
 			}
 
 			"m_flDefuseLength"
